@@ -45,7 +45,7 @@ gem "thruster", require: false
 gem "pry"
 
 # css-zero UI library
-gem "css-zero", "~> 2.0", ">= 2.0.3"
+gem "css-zero", "~> 2.1"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
